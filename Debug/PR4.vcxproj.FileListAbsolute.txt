@@ -1,0 +1,4 @@
+C:\Users\ilyau\Desktop\PR4\Debug\PR4.exe
+C:\Users\ilyau\Desktop\PR4\Debug\PR4.pdb
+C:\Users\irina\Desktop\ПР4\Debug\PR4.exe
+C:\Users\irina\Desktop\ПР4\Debug\PR4.pdb
